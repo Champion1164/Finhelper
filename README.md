@@ -12,7 +12,7 @@ FinHelper is a modern, user-friendly Cost-Volume-Profit (CVP) analysis tool desi
 
 ## Live Demo
 
-Access the live app here: [https://finhelper.vercel.app](https://finhelper.vercel.app)
+Access the live app here: 
 
 ## How to Use
 
